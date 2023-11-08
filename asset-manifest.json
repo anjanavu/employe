@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/anjanavu/employe/static/css/main.0bbea3b0.css",
+    "main.js": "/anjanavu/employe/static/js/main.2a349579.js",
+    "static/js/787.bcabf373.chunk.js": "/anjanavu/employe/static/js/787.bcabf373.chunk.js",
+    "index.html": "/anjanavu/employe/index.html",
+    "main.0bbea3b0.css.map": "/anjanavu/employe/static/css/main.0bbea3b0.css.map",
+    "main.2a349579.js.map": "/anjanavu/employe/static/js/main.2a349579.js.map",
+    "787.bcabf373.chunk.js.map": "/anjanavu/employe/static/js/787.bcabf373.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bbea3b0.css",
+    "static/js/main.2a349579.js"
+  ]
+}
